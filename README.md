@@ -7,7 +7,7 @@ I am an undergraduate BSc Cyber Security student with a profound interest in tec
 
 | Project                                                      | Associated Project                             | Skills
 |-------------------------------------------------------------|------------------------------------------------|------|
-| Intrusion Detection System using open-source SNORT          | <a href="https://google.com">IDS Project</a>| •	packet logging, protocol analysis, content searching, and pattern matching
+| Intrusion Detection System using open-source SNORT          | <a href="https://github.com/brayden031/SNORT-IDS-Project">IDS Project</a>| •	packet logging, protocol analysis, content searching, and pattern matching
 | x | <a href="https://google.com">x</a>| x
 
 
