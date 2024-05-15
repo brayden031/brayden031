@@ -8,7 +8,7 @@ BSc Cyber Security student. This GitHub page is used to showcase side projects t
 | Project                                                      | Associated Project                             | Skills
 |-------------------------------------------------------------|------------------------------------------------|------|
 | Intrusion Detection System using open-source SNORT          | <a href="https://github.com/brayden031/SNORT-IDS-Project">IDS Project</a>| •	packet logging, protocol analysis, content searching, and pattern matching
-| MDE Live response file extraction script | <a href="https://github.com/brayden031/SNORT-IDS-Project/edit/main/README.md">MDE File Extraction</a>| • powershell, MDE
+| MDE Live response file extraction script | <a href="https://github.com/brayden031/MDE_Extraction_Script">MDE File Extraction</a>| • powershell, MDE
 
 
 ## Certifications
