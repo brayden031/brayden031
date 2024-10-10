@@ -16,7 +16,7 @@ BSc Cyber Security student. This GitHub page is used to showcase side projects t
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Studying--CySA+-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA+-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-SC--900-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS--Cloud--Practitioner-006400?&style=for-the-badge&logoColor=white" />
 </div>
