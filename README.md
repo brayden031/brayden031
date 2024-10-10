@@ -1,4 +1,4 @@
-# Hello, I'm Brayden
+# Hello, I'm Brayden.
 <a href="www.linkedin.com/in/braydenbirch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayden031&label=Profile%20views&color=0e75b6&style=flat" alt="brayden031" /> </p>
 
